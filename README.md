@@ -45,6 +45,12 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 ## 📝 NLP & Text Analysis
 
 | API | Description | Free Tier | Credits/Auth | Docs |
+| **Cohere Embed** | State-of-the-art text embeddings | ✅ 100K tokens/mo | Free | [docs](https://docs.cohere.com/docs/embed) |
+| **Google Gemini API** | Gemini Pro and Ultra models | ✅ 60 requests/min free | Free tier | [docs](https://ai.google.dev/docs) |
+| **Replicate (new models)** | Llama 3, Stable Diffusion 3, and more | ✅ Unlimited (rate-limited) | $10-$50 credit | [docs](https://replicate.com/docs) |
+| **Fireworks AI** | Fast inference for 100+ LLMs including Llama 3 | ✅ API calls | $10 free credit | [docs](https://fireworks.ai/docs) |
+| **Groq** | Ultra-fast LLM inference with LPU architecture | ✅ API calls (rate-limited) | $10 free credit | [docs](https://console.groq.com/docs) |
+| **Together AI** | High-performance LLM inference API with 50+ models | ✅ API calls | $25 free credit | [docs](https://docs.together.ai) |
 |-----|-------------|-----------|--------------|------|
 | **OpenAI** | GPT-4, GPT-3.5-Turbo, embeddings, moderation | ✅ API calls | $5-$200 credit | [docs](https://platform.openai.com/docs) |
 | **Anthropic** | Claude 3.5 Sonnet, Claude 3 Opus | ✅ API calls | $5-$200 credit | [docs](https://docs.anthropic.com) |

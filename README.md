@@ -8,7 +8,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 
 - **100+ AI APIs** across multiple categories
 - **Free tier details** - no credit card required for most
-- **Free credits** - many offer $50-$200 in free credits to start
+- **Free plans, trial keys, and credits** - a mix of always-free usage and starter promos
 - **No expiration** - many free tiers don't expire
 - **Production-ready** - APIs you can actually build with
 
@@ -29,16 +29,17 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 
 | API | Category | Free Tier | Credits | Best For |
 |-----|----------|-----------|---------|----------|
-| **OpenAI** | NLP/Chat | ✅ Yes | $5-$200 | GPT-4, GPT-3.5-Turbo |
-| **Anthropic** | NLP/Chat | ✅ Yes | $5-$200 | Claude AI |
+| **OpenRouter** | NLP/Chat | ✅ Yes | Free router | Zero-cost access to rotating free models |
+| **Groq** | NLP/Chat | ✅ Yes | Free plan | Ultra-fast open-model inference |
+| **Mistral AI** | NLP/Chat | ✅ Yes | Experiment tier | Open-weight and hosted models |
 | **Google Cloud AI** | Multi | ✅ Yes | $300 | Vision, NLP, Translation |
 | **Hugging Face** | ML Models | ✅ Yes | Unlimited | 100K+ models |
 | **Replicate** | ML Models | ✅ Yes | $10-$50 | Stable Diffusion, Llama |
-| **Cohere** | NLP | ✅ Yes | $5-$100 | Text generation |
-| **Stability AI** | Image Gen | ✅ Yes | 25-100 images | Stable Diffusion |
-| **ElevenLabs** | Speech | ✅ Yes | 10K chars | Text-to-Speech |
-| **AssemblyAI** | Speech | ✅ Yes | 3 hours | Transcription |
-| **Deepgram** | Speech | ✅ Yes | 200 min | Transcription |
+| **Cohere** | NLP | ✅ Yes | Trial key | Embeddings, rerank, chat |
+| **Cloudflare Workers AI** | Multi | ✅ Yes | 10K neurons/day | Serverless AI in Workers |
+| **Cerebras Inference** | NLP/Chat | ✅ Yes | Free API key | Extremely fast inference |
+| **SambaNova Cloud** | NLP/Chat | ✅ Yes | Free tier | Fast open-model API access |
+| **OpenAI Moderation** | Safety | ✅ Yes | Free | Text and image moderation |
 
 ---
 
@@ -46,15 +47,16 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 
 | API | Description | Free Tier | Credits/Auth | Docs |
 |-----|----------|-----------|---------|----------|
-| **Cohere Embed** | State-of-the-art text embeddings | ✅ 100K tokens/mo | Free | [docs](https://docs.cohere.com/docs/embed) |
+| **Cerebras Inference** | Ultra-fast hosted inference with OpenAI-compatible APIs | ✅ Free tier | Free API key | [docs](https://inference-docs.cerebras.ai/) |
+| **Cohere Embed** | State-of-the-art text embeddings | ✅ Trial key | 1,000 API calls/mo | [docs](https://docs.cohere.com/docs/embed) |
 | **Google Gemini API** | Gemini Pro and Ultra models | ✅ 60 requests/min free | Free tier | [docs](https://ai.google.dev/docs) |
+| **Mistral AI** | Hosted frontier and open-weight models | ✅ Free API tier | Experiment tier | [docs](https://docs.mistral.ai/) |
+| **OpenRouter** | One API for hundreds of models, including free variants | ✅ Free models available | `openrouter/free` and `:free` variants | [docs](https://openrouter.ai/docs) |
 | **Replicate (new models)** | Llama 3, Stable Diffusion 3, and more | ✅ Unlimited (rate-limited) | $10-$50 credit | [docs](https://replicate.com/docs) |
+| **SambaNova Cloud** | Fast hosted inference for open models | ✅ Free tier | No card required for free tier | [docs](https://docs.sambanova.ai/cloud/docs/get-started/rate-limits) |
 | **Fireworks AI** | Fast inference for 100+ LLMs including Llama 3 | ✅ API calls | $10 free credit | [docs](https://fireworks.ai/docs) |
-| **Groq** | Ultra-fast LLM inference with LPU architecture | ✅ API calls (rate-limited) | $10 free credit | [docs](https://console.groq.com/docs) |
-| **Together AI** | High-performance LLM inference API with 50+ models | ✅ API calls | $25 free credit | [docs](https://docs.together.ai) |
-| **OpenAI** | GPT-4, GPT-3.5-Turbo, embeddings, moderation | ✅ API calls | $5-$200 credit | [docs](https://platform.openai.com/docs) |
-| **Anthropic** | Claude 3.5 Sonnet, Claude 3 Opus | ✅ API calls | $5-$200 credit | [docs](https://docs.anthropic.com) |
-| **Cohere** | Generate, embed, classify text | ✅ 100K tokens/mo | No credit card | [docs](https://docs.cohere.com) |
+| **Groq** | Ultra-fast LLM inference with LPU architecture | ✅ Free plan | Rate-limited free usage | [docs](https://console.groq.com/docs) |
+| **Cohere** | Generate, embed, rerank, and classify text | ✅ Trial key | 1,000 API calls/mo | [docs](https://docs.cohere.com) |
 | **Google Cloud Natural Language** | Sentiment, entities, syntax | ✅ 5K units/mo | $300 trial credit | [docs](https://cloud.google.com/natural-language) |
 | **Hugging Face Inference API** | 100K+ models (BERT, GPT-2, etc) | ✅ Unlimited (rate-limited) | Free account | [docs](https://huggingface.co/docs) |
 | **AI21 Labs** | Jurassic-2 models | ✅ 30K tokens/mo | $5-$20 credit | [docs](https://docs.ai21.com) |
@@ -118,7 +120,6 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 
 | API | Description | Free Tier | Credits/Auth | Docs |
 |-----|-------------|-----------|--------------|------|
-| **OpenAI TTS** | Text-to-speech (high quality) | ✅ Unlimited (rate-limited) | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/text-to-speech) |
 | **ElevenLabs** | Ultra-realistic TTS | ✅ 10K chars/mo | Free | [docs](https://elevenlabs.io/docs) |
 | **Google Cloud Text-to-Speech** | 220+ voices, WaveNet | ✅ 1M chars/mo | $300 trial | [docs](https://cloud.google.com/text-to-speech) |
 | **Amazon Polly** | TTS with SSML | ✅ 5M chars/mo | Free tier | [docs](https://aws.amazon.com/polly) |
@@ -128,7 +129,6 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | **Rev.ai** | Speech recognition | ✅ 5 hours audio/mo | Free trial | [docs](https://www.rev.ai/docs) |
 | **Speechmatics** | Speech-to-text | ✅ 60 min/mo | Free tier | [docs](https://speechmatics.com/docs) |
 | **Google Cloud Speech-to-Text** | STT, real-time streaming | ✅ 60 min/mo | $300 trial | [docs](https://cloud.google.com/speech-to-text) |
-| **Whisper API (OpenAI)** | Transcription, translation | ✅ Unlimited (rate-limited) | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/speech-to-text) |
 | **Vosk** | Offline STT (self-hosted) | ✅ Open source | Free | [docs](https://alphacephei.com/vosk/) |
 | **Kaldi** | STT toolkit (self-hosted) | ✅ Open source | Free | [docs](https://kaldi-asr.org/) |
 | **Mozilla DeepSpeech** | STT (self-hosted) | ✅ Open source | Free | [docs](https://github.com/mozilla/DeepSpeech) |
@@ -180,16 +180,18 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 
 | API | Description | Free Tier | Credits/Auth | Docs |
 |-----|-------------|-----------|--------------|------|
-| **OpenAI Chat** | GPT-4, GPT-3.5-Turbo | ✅ API calls | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/chat) |
-| **Anthropic Claude** | Claude 3.5 Sonnet, Claude 3 | ✅ API calls | $5-$200 credit | [docs](https://docs.anthropic.com/claude) |
-| **Cohere Chat** | Command R+, Command | ✅ 5K tokens/mo | Free tier | [docs](https://docs.cohere.com/docs/chat) |
+| **Cerebras Inference** | OpenAI-compatible chat completions with very fast responses | ✅ Free tier | Free API key | [docs](https://inference-docs.cerebras.ai/) |
+| **Cohere Chat** | Command models for chat, tools, and retrieval | ✅ Trial key | 1,000 API calls/mo | [docs](https://docs.cohere.com/docs/chat) |
+| **Groq** | OpenAI-compatible chat with generous free-plan limits | ✅ Free plan | Rate-limited free usage | [docs](https://console.groq.com/docs) |
 | **Google Dialogflow** | NLP + conversation management | ✅ Unlimited (rate-limited) | $300 trial | [docs](https://cloud.google.com/dialogflow) |
+| **Mistral AI** | Hosted chat API with a free experimental tier | ✅ Free API tier | Experiment tier | [docs](https://docs.mistral.ai/) |
+| **OpenRouter** | Unified chat API with zero-cost free-model routing | ✅ Free models available | `openrouter/free` and `:free` variants | [docs](https://openrouter.ai/docs) |
 | **Rasa** | Open-source chatbot framework | ✅ Open source | Free | [docs](https://rasa.com/docs) |
+| **SambaNova Cloud** | Fast chat inference for open models | ✅ Free tier | Free tier limits apply | [docs](https://docs.sambanova.ai/cloud/docs/get-started/rate-limits) |
 | **Botpress** | Visual bot builder (self-hosted) | ✅ Open source | Free | [docs](https://botpress.com/docs) |
 | **Microsoft Bot Framework** | Bot development SDK | ✅ Free | Free | [docs](https://learn.microsoft.com/bot-framework) |
 | **Watson Assistant** | IBM chatbot builder | ✅ Lite plan | Free | [docs](https://cloud.ibm.com/watson-assistant) |
 | **Landbot** | No-code chatbot builder | ✅ Free plan | Free | [docs](https://docs.landbot.io) |
-| **ChatGPT API** | OpenAI chat models | ✅ API calls | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/chat) |
 | **Perplexity AI** | Search-augmented chat | ✅ 100 queries/mo | Free tier | [docs](https://docs.perplexity.ai) |
 | **You.com API** | Chat with web search | ✅ 100 queries/mo | Free | [docs](https://you.com/api) |
 | **Poe** | Multiple AI models chat | ✅ Limited free | Free | [docs](https://developer.poe.com) |
@@ -319,7 +321,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | API | Description | Free Tier | Credits/Auth | Docs |
 |-----|-------------|-----------|--------------|------|
 | **Moderation APIs** | Content moderation | | | |
-| OpenAI Moderation | Detect harmful content | ✅ Unlimited | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/moderation) |
+| OpenAI Moderation | Detect harmful content | ✅ Free | Free for OpenAI API users | [docs](https://platform.openai.com/docs/guides/moderation) |
 | Perspective API | Toxic comment detection | ✅ Free | Free | [docs](https://perspectiveapi.com) |
 | Hive Moderation | Image/video moderation | ✅ 1K reqs/mo | Free | [docs](https://docs.hive.ai) |
 | Azure Content Moderator | Text, image, video moderation | ✅ 1K transactions/mo | $200 trial | [docs](https://azure.microsoft.com/content-moderator) |
@@ -334,7 +336,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | Amazon Textract | Text & data extraction | ✅ 1K pages/mo | Free tier | [docs](https://aws.amazon.com/textract) |
 | Adobe PDF Extract | PDF parsing | ✅ 1K pages/mo | Free | [docs](https://developer.adobe.com/document-services) |
 | **Code Generation** | | | | |
-| OpenAI Codex | Code generation | ✅ API calls | $5-$200 credit | [docs](https://platform.openai.com/docs/guides/code) |
+| OpenRouter Free Code Models | Code generation via free hosted models | ✅ Free models available | `openrouter/free` or `:free` variants | [docs](https://openrouter.ai/docs/guides/routing/routers/free-models-router) |
 | GitHub Copilot | AI pair programmer | ✅ 30-day trial | $10/mo | [docs](https://github.com/features/copilot) |
 | Codeium | Free code completion | ✅ Free | Free | [docs](https://codeium.com/docs) |
 | Tabnine | AI code completion | ✅ Free tier | Free | [docs](https://docs.tabnine.com) |
@@ -352,7 +354,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 ## 📚 How to Choose the Right API
 
 ### For Beginners
-1. **Start with OpenAI or Anthropic** - easiest to use, great docs, free credits
+1. **Start with Groq, OpenRouter, or Mistral** - easy onboarding and real free-tier access
 2. **Use Hugging Face** - thousands of free models
 3. **Try Google Colab** - free GPU, no setup
 4. **Explore Replicate** - one-line model deployment
@@ -391,41 +393,45 @@ Most APIs provide curl examples or SDKs.
 
 ---
 
-## 📖 Example: Using OpenAI API (Free Credits)
+## 📖 Example: Using Groq API (Free Plan)
 
 ```python
-import openai
+import os
+from openai import OpenAI
 
-openai.api_key = "your-api-key"
-
-response = openai.ChatCompletion.create(
-    model="gpt-4",
-    messages=[{"role": "user", "content": "Hello!"}]
+client = OpenAI(
+    api_key=os.environ["GROQ_API_KEY"],
+    base_url="https://api.groq.com/openai/v1",
 )
-print(response.choices[0].message.content)
+
+response = client.responses.create(
+    model="openai/gpt-oss-20b",
+    input="Hello!",
+)
+print(response.output_text)
 ```
 
-**Cost**: First $5-$200 is free (depending on promotion). After that: $0.03/1K tokens (GPT-4).
+**Cost**: Groq has a real free plan with model-specific rate limits. Check the docs for the latest per-model limits.
 
 ---
 
-## 🎁 Bonus: Free Credits & Trials
+## 🎁 Bonus: Reliable Free-Tier Picks (April 2026)
 
-Many APIs offer **sign-up bonuses**:
+These are good options if you want a free tier that is clearly documented today:
 
 | API | Bonus | Conditions |
 |-----|-------|------------|
-| OpenAI | $5-$200 free credit | New users |
-| Anthropic | $5-$200 free credit | New users |
+| OpenRouter | `openrouter/free` router | Free-model availability varies by model and demand |
+| Groq | Free plan | Rate-limited by model and account tier |
+| Mistral AI | Experiment tier | Free API tier with restrictive rate limits |
+| Cloudflare Workers AI | 10,000 neurons/day | Included with Workers Free plan |
+| Cerebras Inference | Free API key | Lower limits than paid tiers |
+| SambaNova Cloud | Free tier | No payment method required for free tier |
+| Cohere | Trial key | 1,000 API calls/mo |
+| Fireworks AI | Free credits | New users receive free credits |
 | Google Cloud | $300 free credit | 90-day trial |
 | AWS | $100-$200 free credit | 12-month free tier |
 | Azure | $200 free credit | 30-day trial |
-| Replicate | $10-$50 credit | New users |
-| RunPod | $10-$50 credit | New users |
-| Vast.ai | $10-$25 credit | New users |
-| Paperspace | $10-$50 credit | New users |
-| Stability AI | Free tier + credits | Varies |
-| Cohere | $5-$100 credit | New users |
 
 ---
 
@@ -458,7 +464,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ for the AI community**
 
-*Last updated: March 2026*
+*Last updated: April 2026*
 
 ---
 

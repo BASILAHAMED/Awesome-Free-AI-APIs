@@ -162,6 +162,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | **Comet.ml** | ML experiment tracking | ✅ Free for individuals | Free | [docs](https://www.comet.ml/docs) |
 | **Neptune.ai** | ML experiment tracking | ✅ Free for individuals | Free | [docs](https://docs.neptune.ai) |
 | **ClearML** | ML lifecycle (self-hosted) | ✅ Open source | Free | [docs](https://clear.ml/docs) |
+| **Future AGI** | LLM & AI agent evaluation, observability, and experiment tracking | ✅ Open source | Free (self-hostable) | [docs](https://docs.futureagi.com) |
 | **DVC** | Data version control (self-hosted) | ✅ Open source | Free | [docs](https://dvc.org/doc) |
 | **Pachyderm** | Data versioning (self-hosted) | ✅ Open source | Free | [docs](https://docs.pachyderm.com) |
 | **Feast** | Feature store (self-hosted) | ✅ Open source | Free | [docs](https://docs.feast.dev) |

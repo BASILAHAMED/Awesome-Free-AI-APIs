@@ -30,6 +30,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | API | Category | Free Tier | Credits | Best For |
 |-----|----------|-----------|---------|----------|
 | **OpenRouter** | NLP/Chat | ✅ Yes | Free router | Zero-cost access to rotating free models |
+| **CoderPlan** | NLP/Chat | ✅ Yes | Sign-up bonus | OpenAI-compatible gateway for Claude Code, Cursor, AI tools |
 | **Groq** | NLP/Chat | ✅ Yes | Free plan | Ultra-fast open-model inference |
 | **Mistral AI** | NLP/Chat | ✅ Yes | Experiment tier | Open-weight and hosted models |
 | **Google Cloud AI** | Multi | ✅ Yes | $300 | Vision, NLP, Translation |

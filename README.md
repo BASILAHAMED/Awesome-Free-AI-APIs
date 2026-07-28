@@ -205,6 +205,7 @@ A curated list of **FREE** AI/ML APIs with generous free tiers, perfect for lear
 | **Text Generation Inference** | Hugging Face model serving (self-hosted) | ✅ Open source | Free | [docs](https://huggingface.co/docs/text-generation-inference) |
 | **vLLM** | High-throughput LLM serving (self-hosted) | ✅ Open source | Free | [docs](https://vllm.readthedocs.io) |
 | **TensorRT-LLM** | NVIDIA LLM optimization (self-hosted) | ✅ Open source | Free | [docs](https://github.com/NVIDIA/TensorRT-LLM) |
+| **[Gracestack](https://tools.gracestack.se/api.html)** | Free DeepSeek V4 Pro API + Bride Cognitive API (HDC/AIF) | ✅ 50 calls/day | Instant API key | [docs](https://tools.gracestack.se/api-docs.html) |
 
 ---
 
